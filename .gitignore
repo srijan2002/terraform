@@ -1,0 +1,6 @@
+.env
+rootkey.csv
+terraform.pem
+.terraform/
+function.zip
+lambda.zip
